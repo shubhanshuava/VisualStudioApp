@@ -6,7 +6,8 @@ namespace DemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Git is good!");
+            Console.WriteLine("It is awesome!");
         }
     }
 }
